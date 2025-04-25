@@ -1,0 +1,14 @@
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\apalah.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\apalah.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\apalah.AssemblyInfo.cs
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\apalah.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\bin\Debug\net8.0\apalah.exe
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\bin\Debug\net8.0\apalah.deps.json
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\bin\Debug\net8.0\apalah.runtimeconfig.json
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\bin\Debug\net8.0\apalah.dll
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\bin\Debug\net8.0\apalah.pdb
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\apalah.dll
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\refint\apalah.dll
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\apalah.pdb
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\apalah.genruntimeconfig.cache
+D:\Tugas Kuliah\PBO\Persiapan\apalah\apalah\obj\Debug\net8.0\ref\apalah.dll
